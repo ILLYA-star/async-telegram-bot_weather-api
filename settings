@@ -1,0 +1,15 @@
+TOKEN = bot_token
+
+HTTPS = https://api.weatherbit.io/v2.0/current
+API = weather_api(I use https://www.weatherbit.io/)
+
+DIALECT = postgresql
+DRIVER = asyncpg
+USER = db_username
+PASSWORD = db_password
+HOST = your_host
+PORT = ...
+DATABASE = database_name...
+
+
+it should be added to the env
